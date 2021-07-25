@@ -1,0 +1,453 @@
+{
+  "name": "Top",
+  "listCapsulesInstances": [
+    {
+      "children": [
+        {
+          "ID": "oc_WxVmn9eAUj2qGJEd3-73",
+          "name": "Thinking"
+        },
+        {
+          "ID": "oc_WxVmn9eAUj2qGJEd3-77",
+          "name": "Eating"
+        },
+        {
+          "ID": "oc_WxVmn9eAUj2qGJEd3-80",
+          "name": "sendRequestPU"
+        },
+        {
+          "ID": "oc_WxVmn9eAUj2qGJEd3-83",
+          "name": "Enjoying"
+        },
+        {
+          "ID": "oc_WxVmn9eAUj2qGJEd3-181",
+          "name": "sendRequestPD"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-2",
+          "name": "Tr1"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-3",
+          "name": "Tr2"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-4",
+          "name": "Tr3"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-5",
+          "name": "Tr4"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-8",
+          "name": "Tr5"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-9",
+          "name": "Tr6"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-10",
+          "name": "Tr7"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-6",
+          "name": "Tr8"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-7",
+          "name": "Tr9"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-11",
+          "name": "Tr10"
+        }
+      ],
+      "ID": "tRaUZoFqIO5Ho9LSyGec-13",
+      "name": "Philosopher1"
+    },
+    {
+      "children": [
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-52",
+          "name": "Thinking"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-54",
+          "name": "Eating"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-55",
+          "name": "sendRequestPU"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-57",
+          "name": "Enjoying"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-63",
+          "name": "sendRequestPD"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-53",
+          "name": "Tr1"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-74",
+          "name": "Tr2"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-75",
+          "name": "Tr3"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-64",
+          "name": "Tr4"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-68",
+          "name": "Tr5"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-69",
+          "name": "Tr6"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-70",
+          "name": "Tr7"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-65",
+          "name": "Tr8"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-67",
+          "name": "Tr9"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-71",
+          "name": "Tr10"
+        }
+      ],
+      "ID": "tRaUZoFqIO5Ho9LSyGec-50",
+      "name": "Philosopher2"
+    },
+    {
+      "children": [
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-104",
+          "name": "Thinking"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-106",
+          "name": "Eating"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-107",
+          "name": "sendRequestPU"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-109",
+          "name": "Enjoying"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-115",
+          "name": "sendRequestPD"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-105",
+          "name": "Tr1"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-126",
+          "name": "Tr2"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-127",
+          "name": "Tr3"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-116",
+          "name": "Tr4"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-120",
+          "name": "Tr5"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-121",
+          "name": "Tr6"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-122",
+          "name": "Tr7"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-117",
+          "name": "Tr8"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-119",
+          "name": "Tr9"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-123",
+          "name": "Tr10"
+        }
+      ],
+      "ID": "tRaUZoFqIO5Ho9LSyGec-102",
+      "name": "Philosopher3"
+    },
+    {
+      "children": [
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-130",
+          "name": "Thinking"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-132",
+          "name": "Eating"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-133",
+          "name": "sendRequestPU"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-135",
+          "name": "Enjoying"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-141",
+          "name": "sendRequestPD"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-131",
+          "name": "Tr1"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-152",
+          "name": "Tr2"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-153",
+          "name": "Tr3"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-142",
+          "name": "Tr4"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-146",
+          "name": "Tr5"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-147",
+          "name": "Tr6"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-148",
+          "name": "Tr7"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-143",
+          "name": "Tr8"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-145",
+          "name": "Tr9"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-149",
+          "name": "Tr10"
+        }
+      ],
+      "ID": "tRaUZoFqIO5Ho9LSyGec-128",
+      "name": "Philosopher4"
+    },
+    {
+      "children": [
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-78",
+          "name": "Thinking"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-80",
+          "name": "Eating"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-81",
+          "name": "sendRequestPU"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-83",
+          "name": "Enjoying"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-89",
+          "name": "sendRequestPD"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-79",
+          "name": "Tr1"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-100",
+          "name": "Tr2"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-101",
+          "name": "Tr3"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-90",
+          "name": "Tr4"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-94",
+          "name": "Tr5"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-95",
+          "name": "Tr6"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-96",
+          "name": "Tr7"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-91",
+          "name": "Tr8"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-93",
+          "name": "Tr9"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-97",
+          "name": "Tr10"
+        }
+      ],
+      "ID": "tRaUZoFqIO5Ho9LSyGec-76",
+      "name": "Philosopher5"
+    },
+    {
+      "children": [
+        {
+          "ID": "oc_WxVmn9eAUj2qGJEd3-30",
+          "name": "Waiting"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-207",
+          "name": "Tr1"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-209",
+          "name": "Tr2"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-79",
+          "name": "Tr1"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-100",
+          "name": "Tr2"
+        }
+      ],
+      "ID": "tRaUZoFqIO5Ho9LSyGec-181",
+      "name": "Arbitrator"
+    }
+  ],
+  "listConnectors": [
+    {
+      "connectors": [
+        {
+          "ID": "YpVFCf95u42i4I26nsva-3"
+        },
+        {
+          "ID": "YpVFCf95u42i4I26nsva-3"
+        }
+      ],
+      "srcTrgIDs": {
+        "srcID": {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-13"
+        },
+        "trgID": {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-181"
+        }
+      }
+    },
+    {
+      "connectors": [
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-212"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-212"
+        }
+      ],
+      "srcTrgIDs": {
+        "srcID": {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-50"
+        },
+        "trgID": {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-181"
+        }
+      }
+    },
+    {
+      "connectors": [
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-214"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-214"
+        }
+      ],
+      "srcTrgIDs": {
+        "srcID": {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-102"
+        },
+        "trgID": {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-181"
+        }
+      }
+    },
+    {
+      "connectors": [
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-213"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-213"
+        }
+      ],
+      "srcTrgIDs": {
+        "srcID": {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-128"
+        },
+        "trgID": {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-181"
+        }
+      }
+    },
+    {
+      "connectors": [
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-210"
+        },
+        {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-210"
+        }
+      ],
+      "srcTrgIDs": {
+        "srcID": {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-76"
+        },
+        "trgID": {
+          "ID": "tRaUZoFqIO5Ho9LSyGec-181"
+        }
+      }
+    }
+  ]
+}

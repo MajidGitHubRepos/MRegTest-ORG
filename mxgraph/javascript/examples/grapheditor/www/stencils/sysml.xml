@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <project basedir="." name="SysML" default="build">
+    <path id="project.classpath">
+        <fileset dir="lib">
+            <include name="*.jar" />
+        </fileset>
+         <fileset dir="Modelio/lib">
+            <include name="*.jar" />
+            <exclude name="SysML.jar" />
+         </fileset>
+     </path>
+
+    <target name="init">
+        <echo message="Initializing Ant properties"/>
+        <property name="module.name" value="SysMLArchitect" />
+        <property name="module.version" value="2.0.03" />
+        <property name="generation.path" location="src" />
+        <property name="compilation.path" location="class" />
+        <property name="packaging.path" location="mdac" />
+    </target>
+
+    <target name="clean" depends="init">
+        <delete>
+            <fileset dir="${compilation.path}">
+                <include name="**/*.class" />
+            </fileset>
+        </delete>
+    </target>
+
+    <target name="resources" depends="init">
+         <echo message="Copying resources" />
+        <copy toDir="${compilation.path}" failonerror="false" preservelastmodified="true">
+        	<fileset dir="${generation.path}">
+        	     <include name="com/modeliosoft/modelio/sysml/i18n/messages_fr.properties" />
+        		 <include name="com/modeliosoft/modelio/sysml/i18n/messages.properties" />
+            </fileset>
+        </copy>
+    </target>
+
+    <target name="build" depends="init, resources ">
+        <echo message="Building *.java" />
+         <javac srcdir="${generation.path}" destdir="${compilation.path}">
+            <classpath refid="project.classpath" />
+            <include name="**/*.java" />
+        </javac>
+    </target>
+
+    <target name="archive" depends="build">
+        <echo message="Archiving jar file" />
+        <mkdir dir="Modelio/lib" />
+        <jar destfile="Modelio/lib/SysML.jar" index="false">
+            <manifest>
+                <attribute name="Built-By" value="Modelio" />
+            </manifest>
+            <fileset dir="${compilation.path}">
+                 <include name="**/*.class" />
+            </fileset>
+            <fileset dir="${compilation.path}">
+            	 <include name="com/modeliosoft/modelio/sysml/i18n/messages_fr.properties" />
+            	 <include name="com/modeliosoft/modelio/sysml/i18n/messages.properties" />
+            </fileset>
+        </jar>
+     </target>
+
+    <target name="package" depends="archive">
+         <echo message="${module.name}_${module.version}.jmdac" />
+         <zip destfile="${packaging.path}/${module.name}_${module.version}.jmdac" excludes=".svn">
+             <zipfileset dir="Modelio/resources" prefix="${module.name}"/>
+             <zipfileset dir="Modelio/lib" prefix="${module.name}/lib"/>
+             <zipfileset dir="Modelio/manifest" prefix="${module.name}/manifest"/>
+             <zipfileset file="Modelio/module.xml" prefix="${module.name}"/>
+             <zipfileset file="Modelio/manifest.xml"/>  
+         </zip>
+    </target>
+
+</project >

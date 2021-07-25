@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="ca/queensu/cs/layout/" kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/common-2.1.0.v20170605.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/common-2.13.0.v20170609.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/ecore-2.13.0.v20170609.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/ecore.xmi-2.13.0.v20170609.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/emf-2.6.0.v20170609.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/mapping.ecore2xml-2.9.0.v20170609.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/profile-1.0.0.201707181432.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/profile.standard-1.0.100.v20170605.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/resources-5.3.0.v20170605.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/types-2.0.0.v20170605.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/uml-5.3.0.v20170605.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/microprofile-metrics-api-1.0.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/antlr-4.7.2-complete.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/org.eclipse.papyrusrt.umlrt.core.source_0.7.0.201509011319.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/org.eclipse.papyrusrt.umlrt.core_0.7.0.201509011319.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/json-20190722.jar"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/apache-ant-1.8.2.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/ant-launcher-1.10.3.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jarFiles/tools.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

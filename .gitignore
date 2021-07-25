@@ -1,0 +1,68 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> old_MDebugger/master
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+<<<<<<< HEAD
+=======
+.project
+>>>>>>> old_MATD/master
+=======
+bin
+build
+classes
+node_modules
+>>>>>>> old_Drawio/master
+=======
+>>>>>>> old_MDebugger/master
+=======
+.project
+>>>>>>> old_matd1/master
+=======
+=======
+>>>>>>> old_mxgraph/master
+node_modules
+javascript/dist
+.jshintrc
+javascript/examples/**/dist
+.idea/
+<<<<<<< HEAD
+>>>>>>> old_mxGraph/master
+=======
+>>>>>>> old_mxgraph/master
+/target/

@@ -1,0 +1,633 @@
+[1]
+userID             :1
+requestType        :6
+balanceAmount      :50 
+result             :1
+nd1                :1
+nd2                :1
+nd3                :1
+
+[2]
+userID             :2
+requestType        :6
+balanceAmount      :49 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :1
+
+
+[3]
+userID             :3
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :100 
+result             :1
+nd1                :2
+nd2                :2
+nd3                :1
+
+[4]
+userID             :4
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :101 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :2
+
+[5]
+userID             :5
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :100  
+result             :1
+nd1                :2
+nd2                :2
+nd3                :2
+
+[6]
+userID             :6
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :101  
+result             :0
+nd1                :1
+nd2                :1
+nd3                :1
+
+[7]
+userID             :7
+requestType        :4
+balanceAmount      :100 
+depositAmount      :100  
+result             :1
+nd1                :2
+nd2                :1
+nd3                :1
+
+[8]
+userID             :7
+requestType        :3
+infoType           :1 
+withdrawalAmount   :200  
+result             :1
+nd1                :1
+nd2                :2
+nd3                :1
+
+[9]
+userID             :8
+requestType        :4
+balanceAmount      :100 
+depositAmount      :100  
+result             :1
+nd1                :1
+nd2                :3
+nd3                :1
+
+[10]
+userID             :8
+requestType        :3
+infoType           :1 
+withdrawalAmount   :201  
+result             :0
+nd1                :1
+nd2                :3
+nd3                :4
+
+[11]
+userID             :1
+requestType        :6
+balanceAmount      :50 
+result             :1
+nd1                :1
+nd2                :1
+nd3                :1
+
+[12]
+userID             :2
+requestType        :6
+balanceAmount      :49 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :1
+
+[13]
+userID             :3
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :100 
+result             :1
+nd1                :2
+nd2                :2
+nd3                :1
+
+[14]
+userID             :4
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :101 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :2
+
+[15]
+userID             :5
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :100  
+result             :1
+nd1                :2
+nd2                :2
+nd3                :2
+
+[16]
+userID             :6
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :101  
+result             :0
+nd1                :1
+nd2                :1
+nd3                :1
+
+[17]
+userID             :3
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :100 
+result             :1
+nd1                :2
+nd2                :2
+nd3                :1
+
+[18]
+userID             :4
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :101 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :2
+
+[19]
+userID             :5
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :100  
+result             :1
+nd1                :2
+nd2                :2
+nd3                :2
+
+[20]
+userID             :6
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :101  
+result             :0
+nd1                :1
+nd2                :1
+nd3                :1
+
+[21]
+userID             :1
+requestType        :6
+balanceAmount      :50 
+result             :1
+nd1                :1
+nd2                :1
+nd3                :1
+
+[22]
+userID             :2
+requestType        :6
+balanceAmount      :49 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :1
+
+[23]
+userID             :3
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :100 
+result             :1
+nd1                :2
+nd2                :2
+nd3                :1
+
+[24]
+userID             :4
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :101 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :2
+
+[25]
+userID             :5
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :100  
+result             :1
+nd1                :2
+nd2                :2
+nd3                :2
+
+[26]
+userID             :6
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :101  
+result             :0
+nd1                :1
+nd2                :1
+nd3                :1
+
+[27]
+userID             :3
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :100 
+result             :1
+nd1                :2
+nd2                :2
+nd3                :1
+
+[28]
+userID             :4
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :101 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :2
+
+[29]
+userID             :5
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :100  
+result             :1
+nd1                :2
+nd2                :2
+nd3                :2
+
+[30]
+userID             :6
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :101  
+result             :0
+nd1                :1
+nd2                :1
+nd3                :1
+
+[31]
+userID             :1
+requestType        :6
+balanceAmount      :50 
+result             :1
+nd1                :1
+nd2                :1
+nd3                :1
+
+[32]
+userID             :2
+requestType        :6
+balanceAmount      :49 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :1
+
+[33]
+userID             :3
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :100 
+result             :1
+nd1                :2
+nd2                :2
+nd3                :1
+
+[34]
+userID             :4
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :101 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :2
+
+[35]
+userID             :5
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :100  
+result             :1
+nd1                :2
+nd2                :2
+nd3                :2
+
+[36]
+userID             :6
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :101  
+result             :0
+nd1                :1
+nd2                :1
+nd3                :1
+
+[37]
+userID             :3
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :100 
+result             :1
+nd1                :2
+nd2                :2
+nd3                :1
+
+[38]
+userID             :4
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :101 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :2
+
+[39]
+userID             :5
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :100  
+result             :1
+nd1                :2
+nd2                :2
+nd3                :2
+
+[40]
+userID             :6
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :101  
+result             :0
+nd1                :1
+nd2                :1
+nd3                :1
+
+[41]
+userID             :1
+requestType        :6
+balanceAmount      :50 
+result             :1
+nd1                :1
+nd2                :1
+nd3                :1
+
+[42]
+userID             :2
+requestType        :6
+balanceAmount      :49 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :1
+
+[43]
+userID             :3
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :100 
+result             :1
+nd1                :2
+nd2                :2
+nd3                :1
+
+[44]
+userID             :4
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :101 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :2
+
+[45]
+userID             :5
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :100  
+result             :1
+nd1                :2
+nd2                :2
+nd3                :2
+
+[46]
+userID             :6
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :101  
+result             :0
+nd1                :1
+nd2                :1
+nd3                :1
+
+[47]
+userID             :3
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :100 
+result             :1
+nd1                :2
+nd2                :2
+nd3                :1
+
+[48]
+userID             :4
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :101 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :2
+
+[49]
+userID             :5
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :100  
+result             :1
+nd1                :2
+nd2                :2
+nd3                :2
+
+[50]
+userID             :6
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :101  
+result             :0
+nd1                :1
+nd2                :1
+nd3                :1
+
+[51]
+userID             :1
+requestType        :6
+balanceAmount      :50 
+result             :1
+nd1                :1
+nd2                :1
+nd3                :1
+
+[52]
+userID             :2
+requestType        :6
+balanceAmount      :49 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :1
+
+[53]
+userID             :3
+requestType        :2
+infoType           :1 
+balanceAmount      :100 
+billAmount         :100 
+result             :1
+nd1                :2
+nd2                :2
+nd3                :1
+
+[54]
+userID             :4
+requestType        :2
+infoType           :1 
+balanceAmount      :120 
+billAmount         :121 
+result             :0
+nd1                :1
+nd2                :3
+nd3                :2
+
+[55]
+userID             :5
+requestType        :3
+infoType           :1 
+balanceAmount      :110 
+withdrawalAmount   :30  
+result             :1
+nd1                :3
+nd2                :4
+nd3                :2
+
+[56]
+userID             :6
+requestType        :3
+infoType           :1 
+balanceAmount      :110 
+withdrawalAmount   :101  
+result             :0
+nd1                :1
+nd2                :2
+nd3                :1
+
+[57]
+userID             :3
+requestType        :2
+infoType           :1 
+balanceAmount      :120 
+billAmount         :10 
+result             :1
+nd1                :2
+nd2                :2
+nd3                :1
+
+[58]
+userID             :4
+requestType        :2
+infoType           :1 
+balanceAmount      :1000 
+billAmount         :1 
+result             :0
+nd1                :1
+nd2                :2
+nd3                :2
+
+[59]
+userID             :5
+requestType        :3
+infoType           :1 
+balanceAmount      :20 
+withdrawalAmount   :120  
+result             :0
+nd1                :2
+nd2                :1
+nd3                :2
+
+[60]
+userID             :6
+requestType        :3
+infoType           :1 
+balanceAmount      :100 
+withdrawalAmount   :101  
+result             :0
+nd1                :3
+nd2                :2
+nd3                :1
+

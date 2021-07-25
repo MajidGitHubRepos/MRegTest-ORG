@@ -1,0 +1,600 @@
+{
+  "name": "Top",
+  "listCapsulesInstances": [
+    {
+      "children": [
+        {
+          "ID": "Oj4Rf18XOl3n_lgfAPub-18",
+          "name": "initTrServer"
+        },
+        {
+          "ID": "Oj4Rf18XOl3n_lgfAPub-15",
+          "name": "StandBy"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-43",
+          "name": "StartUp"
+        },
+        {
+          "ID": "Oj4Rf18XOl3n_lgfAPub-52",
+          "name": "CheckConfig"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-44",
+          "name": "BeSlave"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-65",
+          "name": "initTrBackup"
+        },
+        {
+          "ID": "Oj4Rf18XOl3n_lgfAPub-9",
+          "name": "RunAsSlave"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-62",
+          "name": "KeepAliveMsg"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-64",
+          "name": "NokeepAlive"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-61",
+          "name": "IgnoreConfig"
+        },
+        {
+          "ID": "Oj4Rf18XOl3n_lgfAPub-102",
+          "name": "TryBeMaster"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-58",
+          "name": "ReplyConfig"
+        },
+        {
+          "ID": "Oj4Rf18XOl3n_lgfAPub-105",
+          "name": "Choice_Master_Slave"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-59",
+          "name": "masterFound"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-60",
+          "name": "backToSlave"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-56",
+          "name": "masterNotFound"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-45",
+          "name": "initTimer"
+        },
+        {
+          "ID": "Oj4Rf18XOl3n_lgfAPub-57",
+          "name": "RunAsMaster"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-46",
+          "name": "KeepAlive"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-47",
+          "name": "MasterAnnounce"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-48",
+          "name": "ServiceRequest"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-55",
+          "name": "ServerFaliure"
+        },
+        {
+          "ID": "Oj4Rf18XOl3n_lgfAPub-94",
+          "name": "Failure"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-54",
+          "name": "purgeotherMessage"
+        },
+        {
+          "ID": "Oj4Rf18XOl3n_lgfAPub-94",
+          "name": "Recover"
+        },
+        {
+          "ID": "Oj4Rf18XOl3n_lgfAPub-91",
+          "name": "Choice_Active_Passive"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-51",
+          "name": "ActiveMode"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-49",
+          "name": "ToRunAsMaster"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-50",
+          "name": "ToBeMaster"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-52",
+          "name": "PassiveMode"
+        }
+      ],
+      "ID": "Oj4Rf18XOl3n_lgfAPub-14",
+      "name": "Simulator__server1"
+    },
+    {
+      "children": [
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-69",
+          "name": "initTrServer"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-67",
+          "name": "StandBy"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-90",
+          "name": "StartUp"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-85",
+          "name": "CheckConfig"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-91",
+          "name": "BeSlave"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-84",
+          "name": "initTrBackup"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-71",
+          "name": "RunAsSlave"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-81",
+          "name": "KeepAliveMsg"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-83",
+          "name": "NokeepAlive"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-80",
+          "name": "IgnoreConfig"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-73",
+          "name": "TryBeMaster"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-77",
+          "name": "ReplyConfig"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-74",
+          "name": "Choice_Master_Slave"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-78",
+          "name": "masterFound"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-79",
+          "name": "backToSlave"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-76",
+          "name": "masterNotFound"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-92",
+          "name": "initTimer"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-86",
+          "name": "RunAsMaster"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-93",
+          "name": "KeepAlive"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-94",
+          "name": "MasterAnnounce"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-95",
+          "name": "ServiceRequest"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-102",
+          "name": "ServerFaliure"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-89",
+          "name": "Failure"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-101",
+          "name": "purgeotherMessage"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-100",
+          "name": "Recover"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-88",
+          "name": "Choice_Active_Passive"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-98",
+          "name": "ActiveMode"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-96",
+          "name": "ToRunAsMaster"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-97",
+          "name": "ToBeMaster"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-99",
+          "name": "PassiveMode"
+        }
+      ],
+      "ID": "3kPeMO3vUe2WXbo1fQbN-66",
+      "name": "Simulator__server2"
+    },
+    {
+      "children": [
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-199",
+          "name": "initTrEnvironment"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-195",
+          "name": "ReadConfig"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-200",
+          "name": "configLoaded"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-197",
+          "name": "CheckConfig"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-201",
+          "name": "configOK"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-206",
+          "name": "NoConfigFound"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-198",
+          "name": "ConfigFailure"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-207",
+          "name": "RetryConfig"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-196",
+          "name": "Running"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-204",
+          "name": "srv1Failure"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-202",
+          "name": "QueryConfig"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-203",
+          "name": "MasterAnnouncment"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-205",
+          "name": "srv2Failure"
+        }
+      ],
+      "ID": "3kPeMO3vUe2WXbo1fQbN-176",
+      "name": "Simulator__environment"
+    },
+    {
+      "children": [
+        {
+          "ID": "XOrimNyfEFR4fHp_Q15n-80",
+          "name": "initTrClient"
+        },
+        {
+          "ID": "XOrimNyfEFR4fHp_Q15n-78",
+          "name": "StandBY"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-3",
+          "name": "StarupTransition"
+        },
+        {
+          "ID": "XOrimNyfEFR4fHp_Q15n-82",
+          "name": "Ready"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-5",
+          "name": "reqFlowInit "
+        },
+        {
+          "ID": "XOrimNyfEFR4fHp_Q15n-85",
+          "name": "getMasterName"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-6",
+          "name": "ReplayConfig"
+        },
+        {
+          "ID": "XOrimNyfEFR4fHp_Q15n-88",
+          "name": "checkConfig"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-8",
+          "name": "reqService"
+        },
+        {
+          "ID": "XOrimNyfEFR4fHp_Q15n-93",
+          "name": "WaitingForReply"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-13",
+          "name": "NoMaster"
+        },
+        {
+          "ID": "XOrimNyfEFR4fHp_Q15n-96",
+          "name": "RetryState"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-7",
+          "name": "RetryToGetMasterName"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-9",
+          "name": "NoResponseFromServer"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-10",
+          "name": "ServiceResult"
+        },
+        {
+          "ID": "XOrimNyfEFR4fHp_Q15n-99",
+          "name": "ProcessResponse"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-11",
+          "name": "ReqFlowDone"
+        }
+      ],
+      "ID": "XOrimNyfEFR4fHp_Q15n-75",
+      "name": "Simulator__client__1"
+    },
+    {
+      "children": [
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-17",
+          "name": "initTrClient"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-15",
+          "name": "StandBY"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-24",
+          "name": "StarupTransition"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-18",
+          "name": "Ready"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-25",
+          "name": "reqFlowInit "
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-19",
+          "name": "getMasterName"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-26",
+          "name": "ReplayConfig"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-20",
+          "name": "checkConfig"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-28",
+          "name": "reqService"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-21",
+          "name": "WaitingForReply"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-32",
+          "name": "NoMaster"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-22",
+          "name": "RetryState"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-27",
+          "name": "RetryToGetMasterName"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-29",
+          "name": "NoResponseFromServer"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-30",
+          "name": "ServiceResult"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-23",
+          "name": "ProcessResponse"
+        },
+        {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-31",
+          "name": "ReqFlowDone"
+        }
+      ],
+      "ID": "3kPeMO3vUe2WXbo1fQbN-14",
+      "name": "Simulator__client__2"
+    }
+  ],
+  "listConnectors": [
+    {
+      "connectors": [
+        {
+          "ID": "rGU_0mSLi-BC_Gv-SiB3-1"
+        }
+      ],
+      "srcTrgIDs": {
+        "srcID": {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-14"
+        },
+        "trgID": {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-176"
+        }
+      }
+    },
+    {
+      "connectors": [
+        {
+          "ID": "rGU_0mSLi-BC_Gv-SiB3-2"
+        }
+      ],
+      "srcTrgIDs": {
+        "srcID": {
+          "ID": "XOrimNyfEFR4fHp_Q15n-75"
+        },
+        "trgID": {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-176"
+        }
+      }
+    },
+    {
+      "connectors": [
+        {
+          "ID": "rGU_0mSLi-BC_Gv-SiB3-3"
+        }
+      ],
+      "srcTrgIDs": {
+        "srcID": {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-66"
+        },
+        "trgID": {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-176"
+        }
+      }
+    },
+    {
+      "connectors": [
+        {
+          "ID": "rGU_0mSLi-BC_Gv-SiB3-4"
+        }
+      ],
+      "srcTrgIDs": {
+        "srcID": {
+          "ID": "Oj4Rf18XOl3n_lgfAPub-14"
+        },
+        "trgID": {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-176"
+        }
+      }
+    },
+    {
+      "connectors": [
+        {
+          "ID": "rGU_0mSLi-BC_Gv-SiB3-9"
+        }
+      ],
+      "srcTrgIDs": {
+        "srcID": {
+          "ID": "Oj4Rf18XOl3n_lgfAPub-14"
+        },
+        "trgID": {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-66"
+        }
+      }
+    },
+    {
+      "connectors": [
+        {
+          "ID": "rGU_0mSLi-BC_Gv-SiB3-5"
+        }
+      ],
+      "srcTrgIDs": {
+        "srcID": {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-66"
+        },
+        "trgID": {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-14"
+        }
+      }
+    },
+    {
+      "connectors": [
+        {
+          "ID": "rGU_0mSLi-BC_Gv-SiB3-6"
+        }
+      ],
+      "srcTrgIDs": {
+        "srcID": {
+          "ID": "XOrimNyfEFR4fHp_Q15n-75"
+        },
+        "trgID": {
+          "ID": "Oj4Rf18XOl3n_lgfAPub-14"
+        }
+      }
+    },
+    {
+      "connectors": [
+        {
+          "ID": "rGU_0mSLi-BC_Gv-SiB3-8"
+        }
+      ],
+      "srcTrgIDs": {
+        "srcID": {
+          "ID": "XOrimNyfEFR4fHp_Q15n-75"
+        },
+        "trgID": {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-66"
+        }
+      }
+    },
+    {
+      "connectors": [
+        {
+          "ID": "rGU_0mSLi-BC_Gv-SiB3-7"
+        }
+      ],
+      "srcTrgIDs": {
+        "srcID": {
+          "ID": "3kPeMO3vUe2WXbo1fQbN-14"
+        },
+        "trgID": {
+          "ID": "Oj4Rf18XOl3n_lgfAPub-14"
+        }
+      }
+    }
+  ]
+}
